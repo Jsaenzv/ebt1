@@ -734,6 +734,7 @@ Si lográs explicar esa red de relaciones, no solo aprobás: realmente entendés
 Si este resumen cumple su función, después de leerlo un estudiante debería poder hacer cuatro cosas: explicar con sus palabras qué es una EBT, distinguir con claridad los pares conceptuales que más confunden, leer mejor los ejercicios de examen y conectar economía, finanzas, contabilidad y costos como partes de un mismo problema.
 
 Esa es, en el fondo, la mejor señal de que la materia fue entendida de verdad.
+
 =======
 
 # Empresas de Base Tecnológica I — Resumen reescrito completo
