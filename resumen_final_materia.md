@@ -1,5 +1,3 @@
-<<<<<<< ours
-<<<<<<< ours
 # Resumen integrador de la materia EBT I
 
 ## 1. MAPA DE LA MATERIA
@@ -737,8 +735,7 @@ Si este resumen cumple su función, después de leerlo un estudiante debería po
 
 Esa es, en el fondo, la mejor señal de que la materia fue entendida de verdad.
 =======
-=======
->>>>>>> theirs
+
 # Empresas de Base Tecnológica I — Resumen reescrito completo
 
 ## Introducción: cómo conviene leer esta materia
